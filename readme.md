@@ -9,4 +9,12 @@ are going to be written in markdown due to it's ease of use for inserting code b
 with proper syntax highlighting.
 
 **General notes** are written in LaTeX. This is done for a mix of reasons; both to learn and practice
-and because it's nice.
+and because it's nice. However, most note taking is going to be done in `.md` with neovim such as
+
+## Tools
+- [Zotero](https://github.com/zotero/zotero)
+This will be hosted on my home network and still accessible through school from my VPN.
+- [pandoc](https://github.com/jgm/pandoc)
+- [neovim](https://github.com/neovim/neovim)
+- `git` of course.
+
