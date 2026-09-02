@@ -18,3 +18,5 @@ This will be hosted on my home network and still accessible through school from 
 - [neovim](https://github.com/neovim/neovim)
 - `git` of course.
 
+*This directory has now been renamed to comp250-notes to better suit naming conventions of the git
+repositories as requested by the professors of the course.*
